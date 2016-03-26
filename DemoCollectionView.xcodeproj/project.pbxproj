@@ -15,6 +15,17 @@
 		2343305D1CA67C9300BF847D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2343305C1CA67C9300BF847D /* Images.xcassets */; };
 		234330601CA67C9300BF847D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2343305E1CA67C9300BF847D /* LaunchScreen.xib */; };
 		2343306C1CA67C9300BF847D /* DemoCollectionViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2343306B1CA67C9300BF847D /* DemoCollectionViewTests.m */; };
+		234330941CA682EC00BF847D /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 234330891CA682EC00BF847D /* image1.png */; };
+		234330951CA682EC00BF847D /* image2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2343308A1CA682EC00BF847D /* image2.png */; };
+		234330961CA682EC00BF847D /* image3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2343308B1CA682EC00BF847D /* image3.png */; };
+		234330971CA682EC00BF847D /* image4.png in Resources */ = {isa = PBXBuildFile; fileRef = 2343308C1CA682EC00BF847D /* image4.png */; };
+		234330981CA682EC00BF847D /* image5.png in Resources */ = {isa = PBXBuildFile; fileRef = 2343308D1CA682EC00BF847D /* image5.png */; };
+		234330991CA682EC00BF847D /* image6.png in Resources */ = {isa = PBXBuildFile; fileRef = 2343308E1CA682EC00BF847D /* image6.png */; };
+		2343309A1CA682EC00BF847D /* image7.png in Resources */ = {isa = PBXBuildFile; fileRef = 2343308F1CA682EC00BF847D /* image7.png */; };
+		2343309B1CA682EC00BF847D /* image8.png in Resources */ = {isa = PBXBuildFile; fileRef = 234330901CA682EC00BF847D /* image8.png */; };
+		2343309C1CA682EC00BF847D /* image9.png in Resources */ = {isa = PBXBuildFile; fileRef = 234330911CA682EC00BF847D /* image9.png */; };
+		2343309D1CA682EC00BF847D /* image10.png in Resources */ = {isa = PBXBuildFile; fileRef = 234330921CA682EC00BF847D /* image10.png */; };
+		2343309E1CA682EC00BF847D /* image11.png in Resources */ = {isa = PBXBuildFile; fileRef = 234330931CA682EC00BF847D /* image11.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +53,17 @@
 		234330651CA67C9300BF847D /* DemoCollectionViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoCollectionViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2343306A1CA67C9300BF847D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2343306B1CA67C9300BF847D /* DemoCollectionViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoCollectionViewTests.m; sourceTree = "<group>"; };
+		234330891CA682EC00BF847D /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image1.png; sourceTree = "<group>"; };
+		2343308A1CA682EC00BF847D /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image2.png; sourceTree = "<group>"; };
+		2343308B1CA682EC00BF847D /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image3.png; sourceTree = "<group>"; };
+		2343308C1CA682EC00BF847D /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image4.png; sourceTree = "<group>"; };
+		2343308D1CA682EC00BF847D /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image5.png; sourceTree = "<group>"; };
+		2343308E1CA682EC00BF847D /* image6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image6.png; sourceTree = "<group>"; };
+		2343308F1CA682EC00BF847D /* image7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image7.png; sourceTree = "<group>"; };
+		234330901CA682EC00BF847D /* image8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image8.png; sourceTree = "<group>"; };
+		234330911CA682EC00BF847D /* image9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image9.png; sourceTree = "<group>"; };
+		234330921CA682EC00BF847D /* image10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image10.png; sourceTree = "<group>"; };
+		234330931CA682EC00BF847D /* image11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image11.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +105,17 @@
 		2343304B1CA67C9300BF847D /* DemoCollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				234330891CA682EC00BF847D /* image1.png */,
+				2343308A1CA682EC00BF847D /* image2.png */,
+				2343308B1CA682EC00BF847D /* image3.png */,
+				2343308C1CA682EC00BF847D /* image4.png */,
+				2343308D1CA682EC00BF847D /* image5.png */,
+				2343308E1CA682EC00BF847D /* image6.png */,
+				2343308F1CA682EC00BF847D /* image7.png */,
+				234330901CA682EC00BF847D /* image8.png */,
+				234330911CA682EC00BF847D /* image9.png */,
+				234330921CA682EC00BF847D /* image10.png */,
+				234330931CA682EC00BF847D /* image11.png */,
 				234330501CA67C9300BF847D /* AppDelegate.h */,
 				234330511CA67C9300BF847D /* AppDelegate.m */,
 				234330561CA67C9300BF847D /* ViewController.h */,
@@ -203,6 +236,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				2343305B1CA67C9300BF847D /* Main.storyboard in Resources */,
+				2343309C1CA682EC00BF847D /* image9.png in Resources */,
+				2343309D1CA682EC00BF847D /* image10.png in Resources */,
+				2343309A1CA682EC00BF847D /* image7.png in Resources */,
+				234330991CA682EC00BF847D /* image6.png in Resources */,
+				2343309B1CA682EC00BF847D /* image8.png in Resources */,
+				234330961CA682EC00BF847D /* image3.png in Resources */,
+				234330951CA682EC00BF847D /* image2.png in Resources */,
+				234330941CA682EC00BF847D /* image1.png in Resources */,
+				2343309E1CA682EC00BF847D /* image11.png in Resources */,
+				234330971CA682EC00BF847D /* image4.png in Resources */,
+				234330981CA682EC00BF847D /* image5.png in Resources */,
 				234330601CA67C9300BF847D /* LaunchScreen.xib in Resources */,
 				2343305D1CA67C9300BF847D /* Images.xcassets in Resources */,
 			);
@@ -422,6 +466,7 @@
 				234330711CA67C9300BF847D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		234330721CA67C9300BF847D /* Build configuration list for PBXNativeTarget "DemoCollectionViewTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +475,7 @@
 				234330741CA67C9300BF847D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
